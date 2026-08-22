@@ -2,7 +2,7 @@ name: Event Filters and Activity Types
 
 on:
    pull_request:
-        types: [opened, commented]
+        types: [opened]
         branches:
              - main
 
